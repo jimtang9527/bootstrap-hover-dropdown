@@ -1,0 +1,10 @@
+{
+  "name": "bootstrap-hover-dropdown",
+  "license": "MIT",
+  "main": [
+    "bootstrap-hover-dropdown.min.js"
+  ],
+  "ignore": [
+     
+  ]
+}
